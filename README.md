@@ -8,12 +8,12 @@ Using data visualization and network analysis, the project aims to uncover key t
 ---
 
 ## 📊 Data
-- Source: U.S. trade dataset (2020–2024)
+- Source: DATAWEB http://dataweb.usitc.gov/trade/search/Export/HTS 
 - Includes:
-  - Trade flow types (imports, exports, re-exports)
-  - Country-level trade relationships
-  - Product categories (section codes)
-  - Port and regional trade data
+  - Trade flow types (imports, exports, re-exports) (2020–2024)
+  - Country-level trade relationships (2020–2024)
+  - Product categories (section codes) (2020–2024)
+  - Port and regional trade data (2020–2024)
 
 ---
 
